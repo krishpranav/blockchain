@@ -15,7 +15,7 @@ This repository contains a full-fledged blockchain implementation in **every pro
 │   ├── blockchain.py
 │   ├── README.md
 │   └── assets/output.png
-│── /C++
+│── /c++
 │── /Java
 │── /JavaScript
 │── /Go
@@ -45,7 +45,7 @@ This repository contains a full-fledged blockchain implementation in **every pro
 ## 🚀 Supported Languages (Expanding List)
 
 - ✅ Python - [`/python/`](python/)  
-- ✅ C++ - [`/C++/`](C++/)  
+- ✅ C++ - [`/C++/`](cpp/)  
 - ✅ Java - [`/Java/`](Java/)  
 - ✅ JavaScript (Node.js) - [`/JavaScript/`](JavaScript/)  
 - ✅ Go - [`/Go/`](Go/)  
