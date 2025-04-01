@@ -1,6 +1,7 @@
 '''
 @author: Krisna Pranav
 @brief: blockchain implementation
+@copyright Copyright (c) 2025 Krisna Pranav
 @date: 1-04-2025
 '''
 
