@@ -19,7 +19,7 @@ This is a simple **Blockchain Implementation in Java**. It includes:
 
 ### 1️⃣ How to run it:
 ```bash
-javac blockchain.java -o blockchain
+javac blockchain.java
 ```
 
 ### 2️⃣ Example Code:
